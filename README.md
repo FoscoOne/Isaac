@@ -1,4 +1,4 @@
 Isaac
 =====
 
-2D logic game
+2D RPG/Logic/Adventure game
